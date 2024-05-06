@@ -1,0 +1,7 @@
+D:\Program Files (x86)\C# Projects\Kimlik_Örnek\Kimlik_Örnek\bin\Debug\Kimlik_Örnek.exe.config
+D:\Program Files (x86)\C# Projects\Kimlik_Örnek\Kimlik_Örnek\bin\Debug\Kimlik_Örnek.exe
+D:\Program Files (x86)\C# Projects\Kimlik_Örnek\Kimlik_Örnek\bin\Debug\Kimlik_Örnek.pdb
+D:\Program Files (x86)\C# Projects\Kimlik_Örnek\Kimlik_Örnek\obj\Debug\Kimlik_Örnek.csproj.AssemblyReference.cache
+D:\Program Files (x86)\C# Projects\Kimlik_Örnek\Kimlik_Örnek\obj\Debug\Kimlik_Örnek.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\C# Projects\Kimlik_Örnek\Kimlik_Örnek\obj\Debug\Kimlik_Örnek.exe
+D:\Program Files (x86)\C# Projects\Kimlik_Örnek\Kimlik_Örnek\obj\Debug\Kimlik_Örnek.pdb
