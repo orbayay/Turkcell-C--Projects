@@ -1,0 +1,7 @@
+D:\Program Files (x86)\C# Projects\Arrays_Turkcel101\Arrays_Turkcel101\bin\Debug\Arrays_Turkcel101.exe.config
+D:\Program Files (x86)\C# Projects\Arrays_Turkcel101\Arrays_Turkcel101\bin\Debug\Arrays_Turkcel101.exe
+D:\Program Files (x86)\C# Projects\Arrays_Turkcel101\Arrays_Turkcel101\bin\Debug\Arrays_Turkcel101.pdb
+D:\Program Files (x86)\C# Projects\Arrays_Turkcel101\Arrays_Turkcel101\obj\Debug\Arrays_Turkcel101.csproj.AssemblyReference.cache
+D:\Program Files (x86)\C# Projects\Arrays_Turkcel101\Arrays_Turkcel101\obj\Debug\Arrays_Turkcel101.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\C# Projects\Arrays_Turkcel101\Arrays_Turkcel101\obj\Debug\Arrays_Turkcel101.exe
+D:\Program Files (x86)\C# Projects\Arrays_Turkcel101\Arrays_Turkcel101\obj\Debug\Arrays_Turkcel101.pdb
