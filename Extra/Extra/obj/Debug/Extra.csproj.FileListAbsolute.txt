@@ -1,0 +1,7 @@
+D:\Program Files (x86)\C# Projects\Extra\Extra\bin\Debug\Extra.exe.config
+D:\Program Files (x86)\C# Projects\Extra\Extra\bin\Debug\Extra.exe
+D:\Program Files (x86)\C# Projects\Extra\Extra\bin\Debug\Extra.pdb
+D:\Program Files (x86)\C# Projects\Extra\Extra\obj\Debug\Extra.csproj.AssemblyReference.cache
+D:\Program Files (x86)\C# Projects\Extra\Extra\obj\Debug\Extra.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\C# Projects\Extra\Extra\obj\Debug\Extra.exe
+D:\Program Files (x86)\C# Projects\Extra\Extra\obj\Debug\Extra.pdb
