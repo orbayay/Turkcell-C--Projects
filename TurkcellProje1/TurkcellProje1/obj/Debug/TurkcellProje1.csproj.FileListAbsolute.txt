@@ -1,0 +1,7 @@
+D:\Program Files (x86)\C# Projects\TurkcellProje1\TurkcellProje1\bin\Debug\TurkcellProje1.exe.config
+D:\Program Files (x86)\C# Projects\TurkcellProje1\TurkcellProje1\bin\Debug\TurkcellProje1.exe
+D:\Program Files (x86)\C# Projects\TurkcellProje1\TurkcellProje1\bin\Debug\TurkcellProje1.pdb
+D:\Program Files (x86)\C# Projects\TurkcellProje1\TurkcellProje1\obj\Debug\TurkcellProje1.csproj.AssemblyReference.cache
+D:\Program Files (x86)\C# Projects\TurkcellProje1\TurkcellProje1\obj\Debug\TurkcellProje1.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\C# Projects\TurkcellProje1\TurkcellProje1\obj\Debug\TurkcellProje1.exe
+D:\Program Files (x86)\C# Projects\TurkcellProje1\TurkcellProje1\obj\Debug\TurkcellProje1.pdb

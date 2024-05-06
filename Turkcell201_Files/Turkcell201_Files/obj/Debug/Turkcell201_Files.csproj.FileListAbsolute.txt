@@ -1,0 +1,7 @@
+D:\Program Files (x86)\C# Projects\Turkcell201_Files\Turkcell201_Files\bin\Debug\Turkcell201_Files.exe.config
+D:\Program Files (x86)\C# Projects\Turkcell201_Files\Turkcell201_Files\bin\Debug\Turkcell201_Files.exe
+D:\Program Files (x86)\C# Projects\Turkcell201_Files\Turkcell201_Files\bin\Debug\Turkcell201_Files.pdb
+D:\Program Files (x86)\C# Projects\Turkcell201_Files\Turkcell201_Files\obj\Debug\Turkcell201_Files.csproj.AssemblyReference.cache
+D:\Program Files (x86)\C# Projects\Turkcell201_Files\Turkcell201_Files\obj\Debug\Turkcell201_Files.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\C# Projects\Turkcell201_Files\Turkcell201_Files\obj\Debug\Turkcell201_Files.exe
+D:\Program Files (x86)\C# Projects\Turkcell201_Files\Turkcell201_Files\obj\Debug\Turkcell201_Files.pdb
