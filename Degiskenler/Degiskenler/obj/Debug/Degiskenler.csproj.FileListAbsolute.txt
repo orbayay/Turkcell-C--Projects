@@ -1,0 +1,7 @@
+D:\Program Files (x86)\C# Projects\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe.config
+D:\Program Files (x86)\C# Projects\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe
+D:\Program Files (x86)\C# Projects\Degiskenler\Degiskenler\bin\Debug\Degiskenler.pdb
+D:\Program Files (x86)\C# Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csproj.AssemblyReference.cache
+D:\Program Files (x86)\C# Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\C# Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.exe
+D:\Program Files (x86)\C# Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.pdb
